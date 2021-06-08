@@ -1,3 +1,3 @@
-# gametour.github.io
+# gamefood.github.io
 
-http://gametour.github.io
+http://gamefood.github.io
